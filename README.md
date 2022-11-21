@@ -11,7 +11,7 @@ Everyone can give a talk on Analysis and PDEs with ease tense. If you are intere
 
 ## Organizers
 
-- Tainara Gobetti Borgers (tainara_gobetti_borgers [at] brown [dot] edu)
-- Hyunwoo Kwon (hyunwoo_kwon [at] brown [dot] edu)
+- [Tainara Gobetti Borgers](https://sites.google.com/brown.edu/tainaraborgeswebpage/home) (tainara_gobetti_borgers [at] brown [dot] edu)
+- [Hyunwoo Kwon](https://willkwon-math.github.io) (hyunwoo_kwon [at] brown [dot] edu)
 
 
