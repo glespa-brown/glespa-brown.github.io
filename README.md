@@ -4,30 +4,14 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## What is Graduate Lecture Series in Analysis and PDEs?
 
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
+Graduate Lecture Series in Analysis and PDEs (GLESPA) is a weekly seminar that helds at Brown University on every Tuesday 4 PM. 
+Everyone can give a talk on Analysis and PDEs with ease tense. If you are interested in giving a talk, please contact one of organizers.
 
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
+## Organizers
 
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
+- Tainara Gobetti Borgers (tainara_gobetti_borgers [at] brown [dot] edu)
+- Hyunwoo Kwon (hyunwoo_kwon [at] brown [dot] edu)
+
+
