@@ -7,4 +7,6 @@ category: 2022-Fall
 ---
 Paraproducts and commutator estimates play important roles not only in harmonic analysis but also PDEs. It has wide applications including fluid mechanics and kinetic theory. In this talk, I will give a motivation from MHD equations and study the paraproduct method to prove the Coifman-Meyer theorem and Kato-Ponce commutator estimates. 
 As a result, we prove the following commutator estimates:
-$$ \Vert J^s (fg)-f(J^s g) \Vert_{L^p} \leq C(\Vert \nabla f \Vert_{L^{p_1}}\Vert J^{s-1} g \Vert_{L^{q_2}}  +  \Vert J^s f \Vert_{L^{p_2}}\Vert g \Vert_{L^{q_2}).$$
+<center>
+$ \Vert J^s (fg)-f(J^s g) \Vert_{L^p} \leq C(\Vert \nabla f \Vert_{L^{p_1}}\Vert J^{s-1} g \Vert_{L^{q_2}}  +  \Vert J^s f \Vert_{L^{p_2}}\Vert g \Vert_{L^{q_2}).$
+</center>
