@@ -6,8 +6,8 @@ permalink: /about/
 
 ## What is Graduate Lecture Series in Analysis and PDEs?
 
-Graduate Lecture Series in Analysis and PDEs (GLESPA) is a weekly seminar that helds at Brown University on every Tuesday 4 PM. 
-Everyone can give a talk on Analysis and PDEs with ease tense. If you are interested in giving a talk, please contact one of organizers.
+Graduate Lecture Series in Analysis and PDEs (GLESPA) is a weekly seminar held at Brown University every Tuesday from 4 PM to 5:30 PM. 
+Each speaker (mostly graduate or postdoc students at Brown) can use 1 to 3 weeks to present a topic of their interest in Analysis or PDEs, which may or not be related to their research. If you are interested in giving a talk or if you have any questions, please contact one of the organizers.
 
 ## Organizers
 
