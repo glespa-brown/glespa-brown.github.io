@@ -6,6 +6,6 @@ use_math: true
 category: 2025-Spring
 ---
  
-Jungkyoung Na will give a talk on 05/18/2025.
+Jungkyoung Na will give a talk on 04/15/2025.
 
 TBA
