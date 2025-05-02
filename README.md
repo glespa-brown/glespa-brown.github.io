@@ -16,7 +16,7 @@ Each speaker (mostly graduate or postdoc students at Brown) can use 1 to 3 weeks
 
 ## Organizers
 
-- [Tainara Gobetti Borgers](https://sites.google.com/brown.edu/tainaraborgeswebpage/home) (tainara_gobetti_borgers [at] brown [dot] edu)
+- Fernando Benito Fernández de la Cigoña (f_benito_fernandez_de_la_cigona [at] brown [dot] edu)
+- Marcus Pasquariello (marcus_pasquariello [at] brown [dot] edu)
 - [Hyunwoo Kwon](https://willkwon-math.github.io) (hyunwoo_kwon [at] brown [dot] edu)
-
-
+ 
